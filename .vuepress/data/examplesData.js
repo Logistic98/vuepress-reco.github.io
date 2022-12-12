@@ -6,6 +6,12 @@ export default [
     thumbnail: 'https://i.loli.net/2020/04/04/dDLhpXJqvYuROfG.png'
   },
   {
+    name: 'Quantum Bit',
+    desc: 'Never stop searching, even if only for a brief flash of light.',
+    link: 'https://www.eula.club',
+    thumbnail: 'https://www.eula.club/images/thumbnail.png'
+  },
+  {
     name: 'latte and cat',
     desc: 'study programs and record life',
     link: 'http://blog.smallsunnyfox.com',
